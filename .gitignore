@@ -1,0 +1,11 @@
+# WorkBuddy 项目数据（记忆/会话状态），不属于研究产出
+.workbuddy/
+
+# 系统杂项
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时文件
+*.tmp
+*~
